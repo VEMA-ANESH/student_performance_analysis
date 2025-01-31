@@ -1,0 +1,2 @@
+id,quiz_id,user_id,submitted_at,created_at,updated_at,score,trophy_level,accuracy,speed,final_score,negative_score,correct_answers,incorrect_answers,source,type,started_at,ended_at,duration,better_than,total_questions,rank_text,mistakes_corrected,initial_mistake_count,response_map,quiz
+336448,6,0,1970-01-01 00:00:00.000000012,12,12,92,1,0,100,92.0,0.0,23,0,0,0,12,12,0,395,23,7,3,3,7,8
